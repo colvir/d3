@@ -1,4 +1,4 @@
-export {version} from "./build/package";
+export const version = '4.12.2';
 export * from "d3-array";
 export * from "d3-axis";
 export * from "d3-brush";
